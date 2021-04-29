@@ -1,6 +1,4 @@
 Flask
-Flask-Login
 Flask-SQLAlchemy
 SQLAlchemy
-SQLAlchemy-serializer
 Werkzeug
