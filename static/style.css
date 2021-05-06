@@ -10,6 +10,12 @@ body {
     background-image:url('bg.png')
 }
 
+.logout {
+  position: absolute;
+  top: 10px;
+  right: 30px;
+}
+
 .title {
     font-size: 3rem;
     color: white;
@@ -18,7 +24,7 @@ body {
 }
 
 header {
-    background-color: #7393c2;
+    background-color: #325288;
     height: 30vh;
     border-radius: 0 0 30px 30px;
     display: flex;
